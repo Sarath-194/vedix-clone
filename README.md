@@ -16,7 +16,7 @@
 
 
 <h2>SnapShots</h2>
-<img src='./home-page/vedix-clone.png'/>
+<img src='./home-page/vedix_clone.png' width='70%' height='70%'/>
 
 
 
