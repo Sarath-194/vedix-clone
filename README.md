@@ -3,7 +3,9 @@
 
 <p>Clone the Website <a href='https://vedix.com/'>https://vedix.com</a></p>
 <p>Vedix is a beauty seller in Online for various Skin and Hair issues. Vedix have Quizs to Analyse the Issue regard to Skin/Hair and offers Products for Better Results.</p>
-<p> We are Team of 5 Developers to clone The vedix. Vedix-clone is Developed mostly with front-end technology for front-end we have used HTML, CSS, and Advanced JS for functionality. Focused more on Enriching same features from the Actual website.</p>
+<p> We are Team of 4 Developers to clone The vedix. Vedix-clone is Developed mostly with front-end technology for front-end we have used HTML, CSS, and Advanced JS for functionality. Focused more on Enriching same features from the Actual website.</p>
+
+<p> Deploy Link: <a href='https://sarath-194.github.io/vedix-clone/home-page/vedix_body.html'>https://sarath-194.github.io/vedix-clone/home-page/vedix_body.html/</a> </p>
 
 <h2> Tech-Stack</h2>
 <p> We have Front-end technologies like</p>
@@ -29,7 +31,17 @@
 <li> Checkout page</li>
 <br/>
 
-<p> Deploy Link: <a href='https://sarath-194.github.io/vedix-clone/home-page/vedix_body.html'>https://sarath-194.github.io/vedix-clone/home-page/vedix_body.html/</a> </p>
 
 <h2> Limitations</h2>
 <li> Website Is not developed for mobile view. But, Better to Use Laptop or Desktops for better experience(Larger screen views are recommended). </li>
+
+<h2> Collaberators<h2>
+  <p>
+    <li> Sarath G :<a href='https://github.com/Sarath-194' target='_blank'>https://github.com/Sarath-194</a></li>
+    <li> Praveen Padhi :<a href='https://github.com/praveenkupadhi' target='_blank'>https://github.com/praveenkupadhi</a></li>
+    <li> Shailendra Kumar :<a href='https://github.com/shailendra-k1245' target='_blank'>https://github.com/shailendra-k1245</a></li>
+    <li> Vishal Kumar :<a href='#' target='_blank'>Vishal kumar</a></li>
+  </p>
+  
+  
+  
