@@ -16,10 +16,20 @@
 
 
 <h2>SnapShots</h2>
+<img src='./home-page/Home_page.png' width='70%' height='70%'/>
+<li>Home/Landing page</li>
+<br/>
+<img src='./home-page/Product_page.png' width='70%' height='70%'/>
+<li> Product page</li>
+<br/>
 <img src='./home-page/vedix_clone.png' width='70%' height='70%'/>
-
-
-
+<li>Skin-Quiz</li>
+<br/>
+<img src='./home-page/Checkout_page.png' width='70%' height='70%'/>
+<li> Checkout page</li>
+<br/>
 
 <p> Deploy Link: <a href='https://sarath-194.github.io/vedix-clone/home-page/vedix_body.html'>https://sarath-194.github.io/vedix-clone/home-page/vedix_body.html/</a> </p>
-<p> Actual Website: <a href='https://vedix-.com/'>https://vedix.com/</a> </p>
+
+<h2> Limitations</h2>
+<li> Website Is not developed for mobile view. But, Better to Use Laptop or Desktops for better experience(Larger screen views are recommended). </li>
