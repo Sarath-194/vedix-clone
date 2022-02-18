@@ -16,6 +16,7 @@
 
 
 <h2>SnapShots</h2>
+<img src='./home-page/vedix-clone.png'/>
 
 
 
