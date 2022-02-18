@@ -15,5 +15,10 @@
 <p> For Icons and Some Font we have used Font Awesome <a href='https://fontawesome.com/'>https://fontawesome.com/</a></p>
 
 
+<h2>SnapShots</h2>
+
+
+
+
 <p> Deploy Link: <a href='https://sarath-194.github.io/vedix-clone/home-page/vedix_body.html'>https://sarath-194.github.io/vedix-clone/home-page/vedix_body.html/</a> </p>
 <p> Actual Website: <a href='https://vedix-.com/'>https://vedix.com/</a> </p>
